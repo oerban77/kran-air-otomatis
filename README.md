@@ -7,7 +7,7 @@ Begitu tangan pergi, kran menutup. Kalau kran menyala terus 30 detik
 (misalnya sensor tertutup benda), kran menutup paksa — anti-banjir.
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://www.youtube.com/shorts/a5_g42C46RY
 
 ## Komponen
 
